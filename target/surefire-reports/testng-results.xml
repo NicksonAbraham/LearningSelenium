@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-04T21:08:33 IST" name="Suite" finished-at="2026-11-04T21:08:54 IST" duration-ms="21023">
+    <groups>
+    </groups>
+    <test started-at="2026-11-04T21:08:33 IST" name="Test" finished-at="2026-11-04T21:08:54 IST" duration-ms="21023">
+      <class name="com.test.OrangeHrmTest">
+        <test-method signature="LoginIntoApp()[pri:1, instance:com.test.OrangeHrmTest@11a9e7c8]" started-at="2026-11-04T21:08:33 IST" name="LoginIntoApp" finished-at="2026-11-04T21:08:48 IST" duration-ms="15301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginIntoApp -->
+        <test-method signature="searchLeave()[pri:2, instance:com.test.OrangeHrmTest@11a9e7c8]" started-at="2026-11-04T21:08:48 IST" name="searchLeave" finished-at="2026-11-04T21:08:51 IST" duration-ms="2504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLeave -->
+        <test-method signature="logout()[pri:3, instance:com.test.OrangeHrmTest@11a9e7c8]" started-at="2026-11-04T21:08:51 IST" name="logout" finished-at="2026-11-04T21:08:54 IST" duration-ms="3048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="closebowser()[pri:4, instance:com.test.OrangeHrmTest@11a9e7c8]" started-at="2026-11-04T21:08:54 IST" name="closebowser" finished-at="2026-11-04T21:08:54 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebowser -->
+      </class> <!-- com.test.OrangeHrmTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

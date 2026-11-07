@@ -1,0 +1,14 @@
+06.11.2026 17:31:52,375 INFO  LoginPage:51 - Username is entered in the textbox
+06.11.2026 17:31:52,424 INFO  LoginPage:54 - Password is entered in the textbox
+06.11.2026 17:31:52,489 INFO  LoginPage:57 - Login btn is clicked
+06.11.2026 17:32:24,486 INFO  Homepage:49 - Employee name is given
+06.11.2026 17:32:26,392 INFO  Homepage:59 - Logout is clicked
+06.11.2026 20:03:07,432 INFO  LoginPage:54 - Username is entered in the textbox
+06.11.2026 20:03:07,985 INFO  LoginPage:58 - Password is entered in the textbox
+06.11.2026 20:03:08,437 INFO  LoginPage:62 - Login btn is clicked
+06.11.2026 20:03:31,774 INFO  Homepage:52 - Employee name is given
+06.11.2026 20:04:43,069 INFO  LoginPage:54 - Username is entered in the textbox
+06.11.2026 20:04:43,627 INFO  LoginPage:58 - Password is entered in the textbox
+06.11.2026 20:04:45,489 INFO  LoginPage:62 - Login btn is clicked
+06.11.2026 20:04:57,456 INFO  Homepage:52 - Employee name is given
+06.11.2026 20:05:00,455 INFO  Homepage:63 - Logout is clicked
