@@ -1,6 +1,5 @@
 package com.orangeHrm.test;
 
-import java.util.Scanner;
 
 import org.testng.annotations.Test;
 
@@ -13,11 +12,7 @@ public class HomepageTest extends BaseTest {
     @Test(priority = 1)
     public void searchLeave() {
 
-        Scanner sc = new Scanner(System.in);
-
-        System.out.println("Enter Employee Name:");
-
-        String name = sc.nextLine();
+        String name="Nickson";
 
         hp = new Homepage(driver);
 
